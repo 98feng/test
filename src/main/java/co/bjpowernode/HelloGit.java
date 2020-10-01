@@ -8,5 +8,6 @@ package co.bjpowernode;
 public class HelloGit {
     private String id;
     private String name;
+    private String addr;
 
 }
